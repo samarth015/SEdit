@@ -3,4 +3,4 @@ A minimalist and extremely lightweight text editor with syntax hightlighting(for
 
 This editor was written by following this excellent guide - https://viewsourcecode.org/snaptoken/kilo/index.html
 
-![Editor View])(./editorview.png)
+![Editor View](https://raw.githubusercontent.com/samarth015/SEdit/main/editorview.png)
